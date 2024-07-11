@@ -1,13 +1,12 @@
 {
-  "dependencies": {
-    "jquery": "^3.7.1"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.1.1",
-    "tailwindcss": "^3.4.4"
-  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  }
+    "momo": "oeksnv;lke",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
